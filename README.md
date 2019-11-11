@@ -1,2 +1,2 @@
-# LearnGithub
-This repository is to learn basic GitHub commands
+this are some changes
+
